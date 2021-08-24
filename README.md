@@ -1,1 +1,0 @@
-El objetivo de esta actividad es que los participantes puedan imprimir en la Matriz LED 8x8 algún número, letra, palabra o dibujo de su interés, esto mediante un código base y sencillo, a su vez se le brindan otras herramientas utilizables para realizar la misma función mediante códigos más complejos.
